@@ -63,3 +63,5 @@ li a:hover:not(.active) {
     font-family: 'Lato';
     line-height: 30px;
 }
+
+a.four:hover {font-family: Arial, Helvetica, sans-serif;}
