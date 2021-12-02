@@ -41,3 +41,7 @@ li a:hover:not(.active) {
 .active {
   background-color: #7E4EAC;
 }
+
+.center {
+  text-align: center;
+}
