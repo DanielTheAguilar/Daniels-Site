@@ -67,8 +67,8 @@ li a:hover:not(.active) {
 a.four:hover {font-family: Arial, Helvetica, sans-serif;}
 
 .fart {
-  padding-left: 700px ;
-  padding-right: 7000px ;
+  padding-left: 500px ;
+  padding-right: 10px ;
   padding-top: 10px ;
   paddding-botton: 10px ;
 }
